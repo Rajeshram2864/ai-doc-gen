@@ -53,7 +53,6 @@ export const CodeInput = ({ onAnalyze, isLoading }: CodeInputProps) => {
       </div>
       
       <p className="text-xs text-muted-foreground text-center">
-        Powered by free AI • Google Gemini 2.5 Flash
       </p>
     </div>
   );
